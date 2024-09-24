@@ -3,7 +3,7 @@
 ### [+] Description :
 ***WiFi-FTP is a tool to create a simple ftp server in local network. Anyone under same wifi/router can read/write/modify the folder you shared.***
 
-# Real Life Example : Suppose ypu want to transfer a file from mobile to the laptop or a vice versa without any physical connection, then you can use ftp, it means you just have to connect with the same wifi network, then switch on the wifi ftp server (you can get an app on playstore) on mobile and enable network location in your laptop and once connected you can share any file wirelessly and faster#
+# Real Life Example : Suppose you want to transfer a file from mobile to the laptop or a vice versa without any physical connection, then you can use ftp, it means you just have to connect with the same wifi network, then switch on the wifi ftp server (you can get an app on playstore) on mobile and enable network location in your laptop and once connected you can share any file wirelessly and faster#
 
 ### [-] Installation
 
